@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSmIPEvAliehpFmjZkJ7ObCyTXhiYuzfK/mZFD1UaBrC0DPKb4ZMm4/9QwSNjAvqFIxHvuKhHNFPQicU/rE8QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enzo\\Desktop\\SW-main\\SW-main\\Aula 03 e 04\\Avião\\Avião\\Avião.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
