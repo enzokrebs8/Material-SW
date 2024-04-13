@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "shs0vztIHsrBnUaydtrbjtIkfklkrNO0fYwHcMe1t9sAdlpKJbonn37YzNGgNMauvydYGytxAZ6JQRND5QgBYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enzo\\OneDrive - Etec Centro Paula Souza\\Documents\\ETEC\\2° ano C - 2024\\Curso Técnico\\Material-SW\\Aula 11_04_23 - Exercícios\\InformacoesPessoa\\InformacoesPessoa\\InformacoesPessoa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

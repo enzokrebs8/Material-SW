@@ -1,0 +1,29 @@
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.exe
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.deps.json
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.dll
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.pdb
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.dll
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\refint\InformacoesPessoa.dll
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.pdb
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\ref\InformacoesPessoa.dll
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.exe
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.deps.json
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.dll
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\bin\Debug\net6.0\InformacoesPessoa.pdb
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.dll
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\refint\InformacoesPessoa.dll
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.pdb
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\InformacoesPessoa.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\Material-SW-main\Material-SW-main\Aula 11_04_23 - Exercícios\InformacoesPessoa\InformacoesPessoa\obj\Debug\net6.0\ref\InformacoesPessoa.dll
